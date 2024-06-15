@@ -1,0 +1,77 @@
+-- Estudo do dia 12 de junho, inicio as 23:21 
+
+-- Variaveis
+
+    [] O que é uma variavel? è um local reservado na memoria RAM do computador que usado 
+    para armazénar de forma temporaria os dados de um programa.
+
+    [] ctrl + k + c -> Vai comentar todo bloco selecionado
+
+
+
+-- Operadores aritmeticos
+
+    [] terminal - REPL = Read-Eval-Print-Loop
+        - Read = leitura
+        - Eval = avaliação
+        - Print = imprimir
+        - Loop = laços
+
+    [] CTRL + Shift + '=acento -> Vai abrir o terminal
+
+
+
+-- Operadores Relacionais ou Operadores de comparação 
+
+    [] == igual a
+    [] != diferente de
+    [] < menor que
+    [] > maior que
+    [] <= menor ou igual
+    [] >= maior ou igual
+    [] importante lembrar que o resultado desses operadores é sempre um valor booleano True ou False
+
+
+-- Operadores Logicos
+
+    [] também retorna valores booleano True ou False
+    [] AND
+    [] OR 
+    [] NOT
+    [] Tabela verdade - CONDIÇÃO AND
+        Condição A -- Condição B -- RESULTADO
+          FALSE         FALSE        FALSE
+          TRUE          FALSE        FALSE
+          FALSE         TRUE         FALSE
+          TRUE          TRUE         TRUE
+    
+    [] Tabela verdade - CONDIÇÃO OR
+        Condição A -- Condição B -- RESULTADO
+          FALSE         FALSE        FALSE
+          TRUE          FALSE        TRUE
+          FALSE         TRUE         TRUE
+          TRUE          TRUE         TRUE
+
+    [] Tabela verdade - CONDIÇÃO NOT é mais simples porque ele é unario, ele recebe apenas 1 valor de entrega e inverte o valor
+         Entrado        Saída       
+          FALSE         TRUE         
+          TRUE          FALSE      
+
+
+-- Operadores Condicionais 
+
+    [] Existe 3 grandes tipos de operadores condicionais 
+        [] simples
+        [] composto
+        [] Encadeado
+
+
+{}-> Terminei de estudar as 01:39 da madrugada do dia 13 de jun; 
+     horario do video: 01:52:07 proxima aula continuar daqui!
+
+
+----------------------------------------------//------------------------------------------------
+
+
+--
+     

@@ -1,0 +1,8 @@
+[] Variaveis
+[] Tipos primitivos
+[] Operadores aritmeticos
+[] Operadores Relacionais ou comparações 
+[] Operadores Logicos
+[] Operadores condicionais
+[] Laços de repetições 
+[] Laços de repetições - Encadeados
